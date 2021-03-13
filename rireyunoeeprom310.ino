@@ -1,8 +1,6 @@
  
  
- /*----------------------- 2012-08-10 --------*/
-/* Relay Shield sample   FA-130 motor        *
-  /*-------------------------------------------*/
+ 
 #include <Wire.h>
 #include <SPI.h>
 #include <Adafruit_GFX.h>
